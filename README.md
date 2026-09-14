@@ -1,11 +1,18 @@
 <h1 align="center">🐺 FenRIR - French Robotics Cup 2026</h1>
 
 <p align="center">
-  <i>Autonomous robot built for the "Winter is Coming" theme, designed to gather hazelnuts alongside our "Ratatosk" PAMIs.</i>
+  <i>Autonomous robot built for the "Winter is Coming" theme, designed to gather hazelnuts alongside our "Ratatosk" PAMIs.🐿️</i>
 </p>
 
 ## 🎯 Overview
 FenRIR is the primary autonomous robot of our clan, designed to navigate the game table, collect hazelnut crates (giant Jenga blocks), and deposit them in the pantry and nests. Operating alongside 4 smaller "Ratatosk" PAMIs (including one Ninja PAMI), FenRIR relies on an ESP32 microcontroller, a 12V Parkside battery power system, and LiDAR for obstacle detection. 
+
+<p align="center">
+<img width="376" height="531" alt="image" src="https://github.com/user-attachments/assets/eb1d1699-436f-4fce-b600-164deeedb502" />
+</p>
+<p align="center">
+[Poster_FenRIR.pdf](https://github.com/user-attachments/files/32194994/Poster_FenRIR.pdf)
+</p>
 
 ## 🛠️ My Contributions
 While the software logic was handled by my teammates, I led the mechanical design, hardware integration, and overall project management for our 8-member team:
